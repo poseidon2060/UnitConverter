@@ -7,9 +7,9 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.unitconverter.compose.ConversionMenu
-import com.example.unitconverter.compose.InputBlock
-import com.example.unitconverter.compose.ResultBlock
+import com.example.unitconverter.compose.converter.ConversionMenu
+import com.example.unitconverter.compose.converter.InputBlock
+import com.example.unitconverter.compose.converter.ResultBlock
 import com.example.unitconverter.data.Conversion
 import java.math.RoundingMode
 import java.text.DecimalFormat
